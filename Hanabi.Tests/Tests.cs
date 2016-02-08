@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using Should;
 
-namespace hanabi.Tests
+namespace Hanabi.Tests
 {
     [TestFixture]
     public class Tests

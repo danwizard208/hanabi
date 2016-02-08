@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hanabi", "hanabi\hanabi.csproj", "{2A1745AD-EA62-4AC4-A9D9-0335BE4B4707}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hanabi", "Hanabi\Hanabi.csproj", "{2A1745AD-EA62-4AC4-A9D9-0335BE4B4707}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hanabi.Tests", "hanabi.Tests\hanabi.Tests.csproj", "{18DAB078-74C4-4DAF-85B5-A9E87735BF8F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hanabi.Tests", "Hanabi.Tests\Hanabi.Tests.csproj", "{18DAB078-74C4-4DAF-85B5-A9E87735BF8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
